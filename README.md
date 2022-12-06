@@ -38,7 +38,7 @@ The data is split train:test in 75:25 and then run through a logistic regression
 ``` print("hello world!") ```
 
 
-### **Model 2: [model_name]**
+### **Model 3: [model_name]**
 #### **_Hypothesis_**
 %% TODO :: Write the hypothesis associated with this model
 #### **_Preprocessing_**
@@ -60,7 +60,7 @@ The classification report shows the model's accuracy to be around 83%-85% which 
 %% TODO :: Your final model and final results summary (Figures, results, data) [NO exploration]
 
 
-### **Model 2: [model_name]**
+### **Model 3: [model_name]**
 %% TODO :: Your final model and final results summary (Figures, results, data) [NO exploration]
 
 
